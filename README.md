@@ -125,3 +125,28 @@ Both types serve different purposes but are equally important for effective desi
 
 
 ### HIGH-FIDELITY WIREFRAME
+
+## Popular Wireframing Tools
+
+Wireframing is an essential step in the design process, helping teams visualize structure, user flow, and functionality before diving into development. Here are some widely used wireframing tools:
+
+- **Figma**
+- Sketch
+- Adobe XD
+- Balsamiq
+- Lucidchart
+- Whimsical
+
+### Recommended: Figma
+
+[Figma](https://www.figma.com) is a cloud-based design and prototyping tool that's especially powerful for wireframing. It’s widely used by designers, developers, and product teams for its ease of use, real-time collaboration features, and strong community support.
+
+#### Key Features:
+- **Real-Time Collaboration** – Multiple users can design and comment on files simultaneously — great for team brainstorming and feedback.
+- **Cross-Platform** – As a browser-based tool, Figma works seamlessly across macOS, Windows, and Linux.
+- **Component System** – Create and reuse design components to speed up wireframing and maintain consistency.
+- **Prototyping Tools** – Quickly link wireframes together to build interactive mockups and user flows.
+- **Plugins and Templates** – Enhance productivity with a wide range of free community plugins and templates.
+
+Figma is particularly useful for wireframing because it enables fast iteration, immediate feedback, and clear communication across teams — all from a single platform.
+
