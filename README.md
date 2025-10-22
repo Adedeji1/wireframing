@@ -150,3 +150,28 @@ Wireframing is an essential step in the design process, helping teams visualize 
 
 Figma is particularly useful for wireframing because it enables fast iteration, immediate feedback, and clear communication across teams — all from a single platform.
 
+## Benefits of Wireframing in Software Development
+
+Wireframing is more than just a design step — it's a foundational part of the software development process. Creating wireframes early in a project helps align stakeholders, reduce misunderstandings, and ensure that everyone is working toward the same vision.
+
+### Why Wireframes Matter
+
+1. **Clarify Project Requirements**  
+   Wireframes provide a clear visual representation of the product’s structure and user flow. This makes it easier for stakeholders and team members to understand how the application will function before any code is written.
+
+2. **Guide the Design & Development Process**  
+   With a wireframe in place, designers and developers have a shared reference that outlines the layout, key interactions, and overall functionality. This minimizes guesswork and ensures that efforts are aligned with the intended user experience.
+
+3. **Facilitate Better Communication**  
+   Wireframes act as a communication bridge between technical and non-technical team members. For example, a product manager can point out a feature in a Figma wireframe, and both designers and developers will have a clear understanding of what's needed.
+
+4. **Speed Up Iteration & Feedback**  
+   Making changes to a wireframe is much faster (and cheaper) than rewriting code. This enables rapid iteration and early user testing, helping teams validate ideas before committing to development.
+
+5. **Improve Collaboration Across Teams**  
+   Tools like **Figma** allow real-time collaboration, so designers, developers, and stakeholders can work together in the same file. Comments, version history, and shared components make it easy to keep everyone on the same page.
+
+---
+
+> **Example**: During early planning, a product team uses Figma to sketch out a user dashboard. Developers use this wireframe to identify backend requirements, while designers refine the UI — all based on the same shared model. This prevents rework, ensures design consistency, and keeps the project on track.
+
